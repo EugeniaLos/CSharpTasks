@@ -1,0 +1,11 @@
+C:\Users\eugen\Desktop\IsSoft\Task04\Task00\Task04\Task04\bin\Debug\netcoreapp2.1\Task04.deps.json
+C:\Users\eugen\Desktop\IsSoft\Task04\Task00\Task04\Task04\bin\Debug\netcoreapp2.1\Task04.runtimeconfig.json
+C:\Users\eugen\Desktop\IsSoft\Task04\Task00\Task04\Task04\bin\Debug\netcoreapp2.1\Task04.runtimeconfig.dev.json
+C:\Users\eugen\Desktop\IsSoft\Task04\Task00\Task04\Task04\bin\Debug\netcoreapp2.1\Task04.dll
+C:\Users\eugen\Desktop\IsSoft\Task04\Task00\Task04\Task04\bin\Debug\netcoreapp2.1\Task04.pdb
+C:\Users\eugen\Desktop\IsSoft\Task04\Task00\Task04\Task04\obj\Debug\netcoreapp2.1\Task04.csprojAssemblyReference.cache
+C:\Users\eugen\Desktop\IsSoft\Task04\Task00\Task04\Task04\obj\Debug\netcoreapp2.1\Task04.csproj.CoreCompileInputs.cache
+C:\Users\eugen\Desktop\IsSoft\Task04\Task00\Task04\Task04\obj\Debug\netcoreapp2.1\Task04.AssemblyInfoInputs.cache
+C:\Users\eugen\Desktop\IsSoft\Task04\Task00\Task04\Task04\obj\Debug\netcoreapp2.1\Task04.AssemblyInfo.cs
+C:\Users\eugen\Desktop\IsSoft\Task04\Task00\Task04\Task04\obj\Debug\netcoreapp2.1\Task04.dll
+C:\Users\eugen\Desktop\IsSoft\Task04\Task00\Task04\Task04\obj\Debug\netcoreapp2.1\Task04.pdb
